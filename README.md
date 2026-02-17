@@ -24,8 +24,8 @@ class SymptomBlack:
         self.currently_learning = "👾 Flutter"
         self.collaboration = "💞️ Looking to collaborate on web projects"
         self.contact = {
-            "instagram": "📸 symptom_black",
-            "facebook": "📘 symptom black",
+            "instagram": "📸 symptomeblack",
+            "facebook": "📘 Otu Alain",
             "whatsapp": "📞 +237620323830"
         }
     
